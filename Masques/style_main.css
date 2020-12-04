@@ -1,0 +1,161 @@
+h1{
+    text-align:center;
+    background:linear-gradient(
+    #fff 0%,
+    #fff 45%,
+    #7c8d07 46%,
+    #7c8d07 54%,
+    #fff 54%,
+    #fff 100%);
+    background:-webkit-linear-gradient(
+            #fff 0%,
+            #fff 45%,
+            #7c8d07 46%,
+            #7c8d07 54%,
+            #fff 54%,
+            #fff 100%);
+    background:    -moz-linear-gradient(
+            #fff 0%,
+            #fff 45%,
+            #7c8d07 46%,
+            #7c8d07 54%,
+            #fff 54%,
+            #fff 100%);
+    background:     -ms-linear-gradient(
+            #fff 0%,
+            #fff 45%,
+            #7c8d07 46%,
+            #7c8d07 54%,
+            #fff 54%,
+            #fff 100%);
+    background:      -o-linear-gradient(
+            #fff 0%,
+            #fff 45%,
+            #7c8d07 46%,
+            #7c8d07 54%,
+            #fff 54%,
+            #fff 100%);
+}
+
+h2
+{
+    text-align: center;
+    border-top : 3px solid RGB(49,109,138);
+    border-right : 3px solid RGB(49,109,138);
+    border-left : 3px solid RGB(142,191,215);
+    border-bottom : 3px solid RGB(142,191,215);;
+}
+
+input[type=submit], input[type=date], input[type=text]{
+    text-align: center;
+    width:150px;
+    margin-left:5px;
+    box-shadow:1px 1px 1px #90d83d;
+    cursor:pointer;
+}
+
+.date
+{
+    text-decoration: none;
+    color:black;
+}
+
+#seek_intrus
+{
+    text-align: center;
+}
+
+#intrus
+{
+    text-decoration: none;
+    color:black;
+}
+
+#print_date
+{
+    text-align: center;
+}
+
+#mini
+{
+    font-size:1px;
+}
+
+#masque23
+{
+    position:absolute;
+    margin-left:  2000px;
+}
+
+#container{
+    margin-left: 10%;
+    height: 300px;
+    width: 300px;
+}
+
+#charlie{
+    height: 500px;
+    position: absolute;
+    z-index: 10;
+}
+
+#masque22{
+    height: 20px;
+    margin-left: 50px;
+    position: absolute;
+    z-index: 20;
+}
+
+#intro
+{
+    text-align: center;
+}
+
+form
+{
+    text-align: center;
+}
+
+#blanc
+{
+    color:white;
+    width: 500px;
+}
+
+body
+{
+    text-align: center;
+}
+
+table
+{
+    background-color: white;
+    position: absolute;
+    margin-left: 85%;
+    z-index: 100;
+}
+
+.img_masque , .img_cadenas_ferme , .img_cadenas_ouvert
+{
+    height:100px;
+}
+
+table th
+{
+    color:white;
+}
+
+
+#resultats
+{
+    text-align: center;
+}
+
+#masque10
+{
+    position:absolute;
+    height: 3%;
+    z-index: -1;
+}
+
+

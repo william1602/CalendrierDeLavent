@@ -1,0 +1,9 @@
+body
+{
+    text-align: center;
+}
+
+.img_masque , .img_cadenas_ferme , .img_cadenas_ouvert
+{
+    height:150px;
+}
